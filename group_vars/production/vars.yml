@@ -1,0 +1,4 @@
+Sts.Role: arn:aws:iam::875455485177:role/DockerProductionAWSAdmin
+Sts.Region: eu-central-1
+
+Config.Admin: "DockerProductionAWSAdmin"
